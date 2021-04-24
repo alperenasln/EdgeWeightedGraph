@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 //Title: PrimMST
 //Author:Alperen Aslan
-//ID: 27226264696
-//Section: 2
-//Assignment: 4
 //Definition : This class is implemented from book.
 public class PrimMST {
     private static final double FLOATING_POINT_EPSILON = 1E-12;
