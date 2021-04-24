@@ -9,9 +9,6 @@ import java.util.Scanner;
 //-----------------------------------------------------
 //Title: Driver1
 //Author:Alperen Aslan
-//ID: 27226264696
-//Section: 2
-//Assignment: 4
 //Definition : This class is the driver class for Part 1.
 public class Driver1 {
 
