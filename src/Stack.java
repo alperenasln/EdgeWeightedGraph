@@ -5,9 +5,6 @@ import java.util.NoSuchElementException;
 //-----------------------------------------------------
 //Title: Stack
 //Author:Alperen Aslan
-//ID: 27226264696
-//Section: 2
-//Assignment: 4
 //Definition : This class is implemented from book.
 public class Stack<Item> implements Iterable<Item> {
     private Node<Item> first;     // top of stack
