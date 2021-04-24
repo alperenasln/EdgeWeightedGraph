@@ -4,9 +4,6 @@ import java.util.NoSuchElementException;
 //-----------------------------------------------------
 //Title: Queue
 //Author:Alperen Aslan
-//ID: 27226264696
-//Section: 2
-//Assignment: 4
 //Definition : This class is implemented from book.
 public class Queue<Item> implements Iterable<Item> {
     private Node<Item> first;    // beginning of queue
