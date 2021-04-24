@@ -4,9 +4,6 @@ import java.util.NoSuchElementException;
 //-----------------------------------------------------
 //Title: IndexMinPQ
 //Author:Alperen Aslan
-//ID: 27226264696
-//Section: 2
-//Assignment: 4
 //Definition : This class is implemented from book.
 public class IndexMinPQ<Key extends Comparable<Key>> implements Iterable<Integer> {
     private int maxN;        // maximum number of elements on PQ
