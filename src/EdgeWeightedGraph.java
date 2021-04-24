@@ -3,9 +3,6 @@ import java.util.NoSuchElementException;
 //-----------------------------------------------------
 //Title: EdgeWeightedGraph
 //Author:Alperen Aslan
-//ID: 27226264696
-//Section: 2
-//Assignment: 4
 //Definition : This class is implemented from book.
 public class EdgeWeightedGraph {
     private static final String NEWLINE = System.getProperty("line.separator");
